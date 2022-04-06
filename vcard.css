@@ -57,7 +57,7 @@
 
 .contact {
     grid-area: contact;
-    padding-right: ;
+    padding-top: 40%;
 }
 
 .follow { 
@@ -65,7 +65,6 @@
     padding-left: 12%;
     padding-top: 25%;
     font-size: 30px;
-    text-align: ;
 }
 
 .embeds {
@@ -84,6 +83,7 @@ img {
 }
 
 .logos {
-    margin-block-start: auto;
+    display: block;
+    margin-block-start: 10px;
     width: 30px;
 }
